@@ -14,3 +14,4 @@
 - run **git commit** (as opposed to git commit -m)
 - File will open up and you can put in your message. Close the editor.
   - Commit is complete after closing the editor. Ctrl + W closes tab.
+  - Otherwise, type :wq and hit enter to complete the commit message
