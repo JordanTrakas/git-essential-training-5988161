@@ -26,3 +26,5 @@ Note that git does not track empty folders. We can make sure that Git recognizes
 
 git checkout <id> can bring us to a detached head state and allow us to make experimental changes.
 We can return to the current with git checkout <branch> (usually main)
+
+This is a change that I am about to revert.
