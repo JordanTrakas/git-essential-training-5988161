@@ -14,3 +14,5 @@ git commit -m "Repository structure refresher" -> commit to local repository
 git add . OR git add <filename> -> add to staging area/update what will be committed
 git restore --staged <filename> -> remove from staging area
 git status -> status of repository
+
+test
