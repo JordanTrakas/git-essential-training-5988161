@@ -21,3 +21,5 @@ Then we commit our change (deletion)
 We can rename a file. Say we rename this from example.md to new_name.md
 
 Renamed README.md to READUS.md by using **git mv** <old name> <new name>
+
+Note that git does not track empty folders. We can make sure that Git recognizes an empty folder by adding a .gitkeep file
