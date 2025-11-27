@@ -9,3 +9,6 @@
     1. git config pull.rebase false # merge
     2. git config pull.rebase true # rebase
     3. git config pull.ff only # fast-forward only
+  - You must fix the conflicts and then commit the result
+
+- In real projects merge conflicts are often very complicated. It is good to take your time when resolving merge conflicts.
