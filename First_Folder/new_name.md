@@ -23,3 +23,6 @@ We can rename a file. Say we rename this from example.md to new_name.md
 Renamed README.md to READUS.md by using **git mv** <old name> <new name>
 
 Note that git does not track empty folders. We can make sure that Git recognizes an empty folder by adding a .gitkeep file
+
+git checkout <id> can bring us to a detached head state and allow us to make experimental changes.
+We can return to the current with git checkout <branch> (usually main)
