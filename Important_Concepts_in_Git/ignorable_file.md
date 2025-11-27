@@ -1,0 +1,2 @@
+- This file will be ignored because it is irrelevant to the project.
+- It is put in the .gitignore file below as Important Concepts in Git/ignorable_file.md

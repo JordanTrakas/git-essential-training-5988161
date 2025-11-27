@@ -2,3 +2,6 @@
 node_modules
 .tmp
 npm-debug.log
+
+Important_Concepts_in_Git/*.*
+ignorable_file.md
