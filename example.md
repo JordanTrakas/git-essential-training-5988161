@@ -4,7 +4,7 @@
 
 Remote repository
 -----------------
-Local respository (.git)
+Local repository (.git)
 Staging area
 Local folder (C:\Code)
 
