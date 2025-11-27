@@ -1,0 +1,2 @@
+- This will create a merge conflict
+- This was written in GitHub
