@@ -18,6 +18,3 @@ Let's add this to the stage with *git add .* and then commit it.
 ---
 - **git log --oneline** shortens the log
 - **git log --grep='<str>'** shows all the commits with files with that specific string
-
-
-- These are changes that I am going to revert with git revert <commit id>
